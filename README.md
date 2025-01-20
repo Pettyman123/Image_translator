@@ -1,1 +1,1 @@
-welco
+welcome
